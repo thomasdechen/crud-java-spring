@@ -2,5 +2,5 @@
 - 🟩 POST
 - 🟩 PUT
 - 🟩 DELETE
-- 🟩 Migrations
+- 🟩 Migrations com flyway
 - 🟩 Exception Handler
