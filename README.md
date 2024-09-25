@@ -1,4 +1,4 @@
-- [x] GET
+- 🟩 GET 
 - [x] POST
 - [x] PUT
 - [x] DELETE
